@@ -1,0 +1,15 @@
+body {
+
+}
+
+.nav {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.nav-item {
+    margin-right: 4px;
+}
+
+input, textarea, select {
+    margin-bottom: 8px;
+}
